@@ -12,7 +12,7 @@ Listed below is some of the different things you can do to style your _README.md
 1. Change the **style** of your _text._
 2. Add some color `rgb(9, 105, 218)`
 3. Insert one of your favorite pics
-    !
+    ![The Univeristy of Iowa, Tippie College of Business](https://tippie.uiowa.edu/sites/tippie.uiowa.edu/files/styles/ultrawide__2592_x_1111/public/2022-05/tcob.jpg?h=650406dc&itok=1BmfIybe)
 
 
 Here is a link to the GitHub getting started page where you can access a syntax cheat sheet of sorts.
